@@ -17,5 +17,7 @@ Database Integration: SQL is used to manage customer data, accounts, and transac
 
 Technologies Used:
 Programming Language: Java
+
 GUI Framework: Swing (Java Swing for graphical user interface)
+
 Database: SQL
